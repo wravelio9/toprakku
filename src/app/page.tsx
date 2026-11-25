@@ -153,7 +153,7 @@ export default function HomePage() {
                   />
                 </svg>
               </span>
-              , sampai ke depan pintu.
+              sampai ke depan pintu.
             </h1>
 
             <p className="mt-8 max-w-xl text-lg leading-8 text-ink-soft">
