@@ -1,0 +1,6 @@
+{
+  "plugins": [
+    "@dietrichgebert/ponytail", 
+    "superpowers@git+https://github.com/obra/superpowers.git"
+    ]
+}
